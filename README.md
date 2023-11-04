@@ -29,7 +29,7 @@ Setting up the project on your local machine is as simple as cloning the reposit
 
 ## Deploy
 
-
+https://emrhdmn.github.io/aspeva-menu-main/
 
 ## Screen
 
