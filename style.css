@@ -1,0 +1,29 @@
+ @media (max-width: 768px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#card {
+  max-width: 500px;
+}
+#card img {
+  width: 150px;
+  height: 100px;
+}
+
+@media (max-width: 760px) {
+  #card {
+    max-width: 400px;
+  }
+  #card img {
+    width: 100%;
+    height: auto; 
+  }
+}

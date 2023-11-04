@@ -1,0 +1,13 @@
+aside {
+  height: 100vh;
+}
+aside a {
+  background-color: rgb(214, 214, 214);
+  border-radius: 10px;
+  transition: all 0.3s;
+}
+aside a:hover {
+  background-color: gray;
+
+  scale: 1.05;
+}
